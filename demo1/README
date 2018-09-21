@@ -1,0 +1,2 @@
+1.简单springboot应用,启动即可
+2.访问http://localhost:8080/export/getPdf即可下载
