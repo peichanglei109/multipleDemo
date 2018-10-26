@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.record.demo1</groupId>
-	<artifactId>demo1</artifactId>
+	<artifactId>demo1_itext</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>service</module>
